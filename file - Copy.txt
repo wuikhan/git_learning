@@ -1,0 +1,2 @@
+Hello this is the second day of learning git
+another file
